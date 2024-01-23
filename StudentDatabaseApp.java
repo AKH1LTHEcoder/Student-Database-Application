@@ -1,3 +1,5 @@
+// THE MAIN FRAME
+
 package studentdatabaseapp;
 
 import java.util.Scanner;
